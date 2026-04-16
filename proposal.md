@@ -1,16 +1,15 @@
-# Watch Party
-
 ## Grupo
 ### Integrantes
 * 54796 - Vázquez, Guido Hernán
 * 55036 - Gallo Fiocca, Santino
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app]
+* [backend app]
 
 
 ## Tema
+# Watch Party
 ### Descripción
 Watch Party es una plataforma social interactiva que permite a grupos de amigos sincronizar la reproducción de contenido multimedia en tiempo real, eliminando la barrera de la distancia. A través de salas virtuales privadas, los usuarios disfrutan de una experiencia de visualización compartida con controles unificados, chat en vivo y gestión de turnos para seleccionar videos. Es la solución ideal para quienes buscan transformar el consumo de entretenimiento digital en un evento social dinámico, cercano y altamente colaborativo.
 
