@@ -16,7 +16,7 @@ Watch Party es una plataforma social interactiva que permite a grupos de amigos 
 
 
 ### Modelo
-![imagen del modelo]()
+https://app.diagrams.net/?src=about#G1WWn6O7YqSnqQzmY9rGxrAMFTVqe7YfW3#{"pageId"%3A"BQht6Gd_8JXezJ5XR4nQ"}
 
 
 
