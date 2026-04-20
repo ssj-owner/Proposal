@@ -12,7 +12,7 @@
 ## Watch Party
 
 ### Descripción
-Watch Party es una plataforma social interactiva que permite a grupos de amigos sincronizar la reproducción de contenido multimedia en tiempo real, eliminando la barrera de la distancia. A través de salas virtuales privadas, los usuarios disfrutan de una experiencia de visualización compartida con controles unificados, chat en vivo y gestión de turnos para seleccionar videos. Es la solución ideal para quienes buscan transformar el consumo de entretenimiento digital en un evento social dinámico, cercano y altamente colaborativo.
+Watch Party es una aplicación web que permite a grupos de amigos ver videos o películas de forma sincronizada en tiempo real. Un usuario crea una sala privada y comparte un código de acceso o enlace de invitación. El host administra la reproducción del video y la lista de reproducción, mientras que todos los participantes ven el mismo segundo del video simultáneamente. La comunicación se realiza mediante un chat en tiempo real con soporte de reacciones durante la reproducción.
 
 
 ### Modelo
