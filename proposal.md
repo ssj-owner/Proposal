@@ -50,7 +50,6 @@ Watch Party es una aplicación web que permite a grupos de amigos ver videos o p
 
 ### Alcance Adicional Voluntario
 
-> El Alcance Adicional Voluntario es opcional, pero ayuda a que la funcionalidad del sistema esté completa y será considerado en la nota en función de su complejidad y esfuerzo.
 
 | Req | Detalle |
 |:-|:-|
