@@ -1,3 +1,6 @@
+- name: draw.io CLI
+
+  uses: severgroup-tt/actions-drawio-cli@v1.0.0
 # Propuesta TP DSW
 
 ## Grupo
@@ -24,7 +27,7 @@ Watch Party es una aplicación web que permite a grupos de amigos ver videos o p
 
 ### Modelo
 
-[Ver diagrama ERD]
+[Ver diagrama ERD] https://drive.google.com/file/d/1RWh6HsINsxnodFpOT5HX63GRPlculIHQ/view?usp=sharing
 
 ---
 
