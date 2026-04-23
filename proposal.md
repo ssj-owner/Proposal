@@ -46,8 +46,6 @@ Watch Party es una aplicación web que permite a grupos de amigos ver videos o p
 | CRUD | 1. CRUD Usuario<br>2. CRUD Sala<br>3. CRUD Video<br>4. CRUD Participante<br>5. CRUD Playlist<br>6. CRUD Mensaje |
 | CUU/Epic | 1. Crear sala e invitar participantes mediante código de acceso<br>2. Sincronizar reproducción de video en tiempo real entre todos los participantes de la sala |
 
-> Los CUUs están relacionados entre sí: el CUU 1 genera la sala y los participantes que son el input necesario para que el CUU 2 pueda ejecutarse.
-
 ### Alcance Adicional Voluntario
 
 
