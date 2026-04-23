@@ -24,6 +24,8 @@ Watch Party es una aplicación web que permite a grupos de amigos ver videos o p
 
 ### Modelo
 
+<img width="526" height="749" alt="imagen" src="https://github.com/user-attachments/assets/d2327da7-1543-46a1-8b61-f17f19165518" />
+
 https://drive.google.com/file/d/1RWh6HsINsxnodFpOT5HX63GRPlculIHQ/view?usp=sharing
 
 ---
