@@ -1,6 +1,3 @@
-- name: draw.io CLI
-
-  uses: severgroup-tt/actions-drawio-cli@v1.0.0
 # Propuesta TP DSW
 
 ## Grupo
