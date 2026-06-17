@@ -45,8 +45,8 @@ https://drive.google.com/file/d/1RWh6HsINsxnodFpOT5HX63GRPlculIHQ/view?usp=shari
 
 | Req | Detalle |
 |:-|:-|
-| CRUD | 1. CRUD Usuario<br>2. CRUD Sala<br>3. CRUD Video<br>4. CRUD Participante<br>5. CRUD Playlist<br>6. CRUD Mensaje |
-| CUU/Epic | 1. Crear sala e invitar participantes mediante código de acceso<br>2. Sincronizar reproducción de video en tiempo real entre todos los participantes de la sala |
+| CRUD | 1. CRUD Usuario<br>2. CRUD Sala<br>3. CRUD Video<br>4. CRUD Participante<br>5. CRUD Playlist<br>6. CRUD Mensaje<br>7. CRUD Reporte |
+| CUU/Epic | 1. Crear sala e invitar participantes mediante código de acceso<br>2. Sincronizar reproducción de video en tiempo real entre todos los participantes de la sala<br>3. Reportar comportamiento inapropiado y gestionar la moderación desde el panel de administración |
 
 ### Alcance Adicional Voluntario
 
